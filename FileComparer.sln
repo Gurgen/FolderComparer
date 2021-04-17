@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFileComparer", "SmartFileComparer\SmartFileComparer.csproj", "{4A7C8A19-D7CB-4E41-820E-E86E90087BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{DB437E79-4354-45DD-A086-F4E3C306A2FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7C8A19-D7CB-4E41-820E-E86E90087BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7C8A19-D7CB-4E41-820E-E86E90087BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7C8A19-D7CB-4E41-820E-E86E90087BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7C8A19-D7CB-4E41-820E-E86E90087BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB437E79-4354-45DD-A086-F4E3C306A2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB437E79-4354-45DD-A086-F4E3C306A2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB437E79-4354-45DD-A086-F4E3C306A2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB437E79-4354-45DD-A086-F4E3C306A2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

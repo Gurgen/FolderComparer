@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <AssemblyName>SmartArmenia.SmartFileComparer</AssemblyName>
+        <RootNamespace>SmartArmenia.SmartFileComparer</RootNamespace>
+        <Title>Directories and files comparer</Title>
+        <RepositoryUrl>https://github.com/Gurgen/FolderComparer</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
